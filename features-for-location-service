@@ -1,0 +1,1198 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- wingu-staging -->
+<base href="">
+<meta charset="utf-8" />
+<title>Trigger settings, analytics, full CMS: wingu features &mdash; wingu - proximity platform</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://static1.squarespace.com/static/5bdac71636099b039e464570/t/5c1bb8232b6a28b0c1aec391/favicon.ico"/>
+<link rel="canonical" href="https://www.wingu.app/features-for-location-service"/>
+<meta property="og:site_name" content="wingu - proximity platform"/>
+<meta property="og:title" content="Trigger settings, analytics, full CMS: wingu features &mdash; wingu - proximity platform"/>
+<meta property="og:url" content="https://www.wingu.app/features-for-location-service"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Features for location service: we enable you to create proximity triggers and location based content and interaction without writing code. fully functional tools."/>
+<meta itemprop="name" content="Trigger settings, analytics, full CMS: wingu features — wingu - proximity platform"/>
+<meta itemprop="url" content="https://www.wingu.app/features-for-location-service"/>
+<meta itemprop="description" content="Features for location service: we enable you to create proximity triggers and location based content and interaction without writing code. fully functional tools."/>
+<meta name="twitter:title" content="Trigger settings, analytics, full CMS: wingu features — wingu - proximity platform"/>
+<meta name="twitter:url" content="https://www.wingu.app/features-for-location-service"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Features for location service: we enable you to create proximity triggers and location based content and interaction without writing code. fully functional tools."/>
+<meta name="description" content="Features for location service: we enable you to create proximity triggers 
+and location based content and interaction without writing code. fully 
+functional tools." />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rubik:400,300,500,700,700i,300i|Sarala:700|Sarala:700,400"/>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c54d8d81244c462337e47-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c54d8d81244c462337e47-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f68c2b4086ad218068636-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//assets.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-69813a528c73e940a2def-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a3e75409b407dae8ca7d1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ab4142fcacca918cf4e2d-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-758414eefce0c276c5972-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-d7ba7c67638cadada5b70-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-1637eb4ee93bed59528921026e024bf4-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-ca484c68c41202b648ec4-min.en-US.js"},"squarespace-commerce-cart":{"js":"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-6f013e702cee6c777a9ca-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7a61f12f209b6b1084c2a996626292ae-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-3fa1791423166e75e9f9e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-7969c646fb37d098d8205-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-bddeb2bc2f1c82e89730b-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-6f75db26ac5a6772b018268d7fb910ca-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-55db5350f04790160eb9c-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5d5ff461e8bba64f298dc-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-3719795682da2e4919d41-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-a7cf1f44e8653e4d0dfb0-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-62c9ec33d6124f4e3c04b78ce135a63e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f6f8e3898e3a8a3b908fe-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-2573bf4ff7704c95ef4221f794e6b6b5-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-823591d6d231348a3b6e5-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6a8a9291b7376356ea439-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-3df8936cb001cb6979c8e-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-a41126d55c7c7474f183f-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-36fe5b82f65a7545934ae-min.en-US.js"},"squarespace-share-buttons":{"js":"//assets.squarespace.com/universal/scripts-compressed/share-buttons-5c330bb7b962ce4b56d06-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-8a49cef3a06688af6f6c4-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-4019ec5bf099830c45ee7-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e623ed52c442404413ef0-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-68df56a8135961401cbd590171d6b04a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bb02347c7198dc2112b75-min.en-US.js"}},"pageType":1,"website":{"id":"5bdac71636099b039e464570","identifier":"wingu-staging","websiteType":4,"contentModifiedOn":1560239542990,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/Berlin","machineTimeZoneOffset":7200000,"timeZoneOffset":7200000,"timeZoneAbbr":"CEST","siteTitle":"wingu - proximity platform","fullSiteTitle":"Trigger settings, analytics, full CMS: wingu features \u2014 wingu - proximity platform","siteDescription":"","location":{"addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5c0aa3a388251bfa8267e8d7","shareButtonOptions":{},"logoImageUrl":"//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","authenticUrl":"https://www.wingu.app","internalUrl":"https://wingu-staging.squarespace.com","baseUrl":"https://www.wingu.app","primaryDomain":"www.wingu.app","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"showOwnerLogin":false},"websiteSettings":{"id":"5bdac71636099b039e464573","websiteId":"5bdac71636099b039e464570","subjects":[],"country":"DE","state":"HH","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":false,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":false,"displayFrequency":30,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"paymentSettings":{},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"contactLocation":{"addressLine1":"R\u00F6dingsmarkt 9","addressLine2":"Hamburg","addressCountry":"Deutschland"},"businessName":"wingu GmbH","sameAsRetailLocation":false,"businessId":"","merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"restockNotificationsMailingListOptInByDefault":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random"},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":true,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.","cookieBannerTheme":"DARK","cookieBannerVariant":"POPUP","cookieBannerPosition":"BOTTOM_LEFT","cookieBannerCtaVariant":"BUTTON","cookieBannerCtaText":"OK"},"websiteCloneable":false,"collection":{"title":"Trigger settings, analytics, full CMS: wingu features","id":"5c0f88594fa51a03ef54969a","fullUrl":"/features-for-location-service","type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"3","tweak-blog-list-item-image-aspect-ratio-grid":"16:9 Widescreen","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"41px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Columns","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Split","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"First Page Only","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"3","tweak-related-products-hover-behavior":"Show Alternate Image","tweak-related-products-items-per-row":"3","tweak-site-ajax-loading-enable":"false","tweak-site-border-show":"false","tweak-site-border-width":"10px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","betaFeatureFlags":["SITE_USER_SERVICE-update-groups-with-tags","ORDERS-SERVICE-check-digital-good-access-with-service","ORDERS-SERVICE-reset-digital-goods-access-with-service","ORDERS-SERVICE-submit-order-through-service","dg_downloads_from_fastly","generic_iframe_loader_for_campaigns","product-retriever-v2-enabled","domain_registration_via_registrar_service","domain_locking_via_registrar_service","image_editor_experimental_features","domain_deletion_via_registrar_service","domain_info_via_registrar_service","add_new_page_alt","image_picker","onboarding_wizard","gallery_lightbox_71","onboarding_cards_71","member_email_verified_flag_migration","commerce_trial_survey","seven_one_manage_items_button","seven_one_add_page"],"impersonatedSession":false,"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.wingu.app/features-for-location-service?format=RSS" />
+<script type="application/ld+json">{"url":"https://www.wingu.app","name":"wingu - proximity platform","description":"","image":"//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"wingu GmbH","address":"","email":"sales@wingu.de","telephone":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"R\u00F6dingsmarkt 9\nHamburg\nDeutschland","image":"https://static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","name":"wingu GmbH","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQQ9MD9');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="YEOmlTd9CvcS40dJoTIB5ndyVR22z77lZGWGnNevaWw" /><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5c0f88594fa51a03ef54969a" class="tweak-social-icons-style-regular tweak-social-icons-shape-circle tweak-site-width-option-full-background tweak-icon-weight-hairline   tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-top-left ancillary-header-primary-nav-position-top-center ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-top-right ancillary-header-account-position-top-right tweak-header-primary-nav-hover-style-spotlight tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square  tweak-header-secondary-nav-hover-style-button tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-icon-only tweak-header-search-placeholder-show tweak-header-cart-style-cart tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-first-page-only  tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-split tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-center tweak-index-gallery-content-text-alignment-center tweak-footer-show tweak-footer-layout-columns  tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-bottom-center tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-bottom-center tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left  tweak-blog-meta-primary-category tweak-blog-meta-secondary-tags tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-center tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-169-widescreen tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-below-content tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-center tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-hover-behavior-show-alternate-image tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-top image-block-card-text-alignment-center  image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show    tweak-share-buttons-standard-background-color native-currency-code-usd collection-5c0f88594fa51a03ef54969a collection-type-index collection-layout-default view-list mobile-style-available sqs-has-custom-cart has-logo-image enable-load-effects has-primary-nav has-secondary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/?format=1500w" alt="wingu - proximity platform" class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          
+            <a href="/" class="Mobile-overlay-nav-item">
+              Home
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/features-for-location-service" class="Mobile-overlay-nav-item">
+              Features
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/location-service-sdk" class="Mobile-overlay-nav-item">
+              Documentation
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/leading-proximity-platform" class="Mobile-overlay-nav-item">
+              About
+            </a>
+          
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="/contact" class="Mobile-overlay-nav-item">
+        Get in touch
+      </a>
+    
+  
+
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+
+  
+
+        
+  
+
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner Site-inner--index">
+
+        <header class="Header Header--bottom">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/" class="Header-nav-item" data-test="template-nav">Home</a><a href="/features-for-location-service" class="Header-nav-item Header-nav-item--active" data-test="template-nav">Features</a><a href="/location-service-sdk" class="Header-nav-item" data-test="template-nav">Documentation</a><a href="/leading-proximity-platform" class="Header-nav-item" data-test="template-nav">About</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/?format=1500w" alt="wingu - proximity platform" class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/contact" class="Header-nav-item">Get in touch</a>
+  </div>
+
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="5c0f88594fa51a03ef54969a" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="trigger-configuration" class="Index-page"  data-collection-id="5c0f91b50e2e726dadf5f043" data-parallax-id="5c0f91b50e2e726dadf5f043" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1552041256388" id="page-5c0f91b50e2e726dadf5f043"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5c0f91b50e2e726dadf5f044"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">It´s all about features</h1><p style="text-align:center;white-space:pre-wrap;">We enable you to create proximity triggers and location based content and interaction without writing code. With our award winning web-interface you can create Geofences, Beacons, NFC and QR-Codes and attach rich content and interactions to it. </p></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544524862370_6080"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544524213542_4688"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:1262.0px;">
+          
+            <div style="padding-bottom:38.66877746582031%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314428335-3MU6O0JESDB96VRUTTZL/ke17ZwdGBToddI8pDm48kCUvt6WED6o7zCU129ywbqcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbdBNJwjpglIJe8WKPAJkLG1mnJiihSMI06psDlU1Wrv5ChGqgebxkzE89RYMDh-J/Why_wingu_pic.png" alt="Why_wingu_pic.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314428335-3MU6O0JESDB96VRUTTZL/ke17ZwdGBToddI8pDm48kCUvt6WED6o7zCU129ywbqcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbdBNJwjpglIJe8WKPAJkLG1mnJiihSMI06psDlU1Wrv5ChGqgebxkzE89RYMDh-J/Why_wingu_pic.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314428335-3MU6O0JESDB96VRUTTZL/ke17ZwdGBToddI8pDm48kCUvt6WED6o7zCU129ywbqcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbdBNJwjpglIJe8WKPAJkLG1mnJiihSMI06psDlU1Wrv5ChGqgebxkzE89RYMDh-J/Why_wingu_pic.png" data-image-dimensions="1262x488" data-image-focal-point="0.5,0.5" alt="Why_wingu_pic.png" data-load="false" data-image-id="5c1ba07b758d463c128c11ec" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545126623207_10059"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Configure locations and trigger as you go</h2><p style="text-align:center;white-space:pre-wrap;">We provide all major <strong>proximity triggers</strong> in one single platform. Beacons, Geofences, NFC or QR-Codes are easily configured via the web-interface - even by non-developers.</p></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1546517370712_104128"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:222.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518625231-BF2ANXN8HFF00GEF2ZNR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/image-asset.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518625231-BF2ANXN8HFF00GEF2ZNR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518625231-BF2ANXN8HFF00GEF2ZNR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/image-asset.png" data-image-dimensions="222x222" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5c2e0061758d46dc8b1522a2" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545314324845_18850"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Beacon</h3><p style="text-align:center;white-space:pre-wrap;">Add and configure Beacons of almost every manufacturer. Just add the settings and you can start attaching content.</p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1546517370712_108104"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:222.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518657789-QVUGXK8SQH7AWSACW1VS/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/nfc.png" alt="nfc.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518657789-QVUGXK8SQH7AWSACW1VS/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/nfc.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518657789-QVUGXK8SQH7AWSACW1VS/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/nfc.png" data-image-dimensions="222x222" data-image-focal-point="0.5,0.5" alt="nfc.png" data-load="false" data-image-id="5c2e00818a922dab8b69412b" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546517370712_149869"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">NFC</h3><p style="text-align:center;white-space:pre-wrap;">Configure NFC chips with our specific target URL and connect them to your content. </p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1546517370712_120991"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:222.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518833563-70W07TPII7NLE5QMJEW2/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/geofence.png" alt="geofence.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518833563-70W07TPII7NLE5QMJEW2/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/geofence.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518833563-70W07TPII7NLE5QMJEW2/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/geofence.png" data-image-dimensions="222x222" data-image-focal-point="0.5,0.5" alt="geofence.png" data-load="false" data-image-id="5c2e0131c2241b439c531aef" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546517370712_187472"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Geofence</h3><p style="text-align:center;white-space:pre-wrap;">Create ,configure and manage Geofences via our web interface. Change the position or settings at any time.</p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1546517370712_124783"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:222.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518859267-T1H7CT4RP97O7RNKLLXR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/qr-code.png" alt="qr-code.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518859267-T1H7CT4RP97O7RNKLLXR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/qr-code.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546518859267-T1H7CT4RP97O7RNKLLXR/ke17ZwdGBToddI8pDm48kC2TvBgr6GHemXJIPonV_opZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dBUeh7tVDxQci3gUes7eqBZyfsAOsFcUEPdIFUtCUQJYywstkU9w_KlSFixr-mJ0w/qr-code.png" data-image-dimensions="222x222" data-image-focal-point="0.5,0.5" alt="qr-code.png" data-load="false" data-image-id="5c2e014b70a6ad3a91048521" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546517370712_49643"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">QR-code</h3><p style="text-align:center;white-space:pre-wrap;">Generate QR Codes and attach your landing page. The easiest way to attach content to a product.</p></div></div></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544524862370_7276"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1546517370712_155504"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545314324845_10795"><div class="sqs-block-content">
+
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-poster combination-animation-none individual-animation-none individual-text-animation-none image-position-left " data-scrolled>
+
+        <div class="intrinsic">
+
+          <div
+          style="padding-bottom:65.26419067382812%;" class="image-inset content-fill has-aspect-ratio" 
+          
+          
+          
+          
+          data-animation-tier="1"
+          data-description="">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314483791-MSBT02J8ZTCJGXEAAPPL/ke17ZwdGBToddI8pDm48kMlTTRQbIU7pjC-JV9E4n117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXSegk6iz_XqdAZk95goHuConu7kOGdYQX4wFiBDLFjdZDqXZYzu2fuaodM4POSZ4w/image-asset.gif" alt=" - " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314483791-MSBT02J8ZTCJGXEAAPPL/ke17ZwdGBToddI8pDm48kMlTTRQbIU7pjC-JV9E4n117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXSegk6iz_XqdAZk95goHuConu7kOGdYQX4wFiBDLFjdZDqXZYzu2fuaodM4POSZ4w/image-asset.gif" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545314483791-MSBT02J8ZTCJGXEAAPPL/ke17ZwdGBToddI8pDm48kMlTTRQbIU7pjC-JV9E4n117gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXSegk6iz_XqdAZk95goHuConu7kOGdYQX4wFiBDLFjdZDqXZYzu2fuaodM4POSZ4w/image-asset.gif" data-image-dimensions="2044x1334" data-image-focal-point="0.5,0.5" alt=""  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1546517370712_158080"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="proximity-cms" class="Index-page"  data-collection-id="5c0f886740ec9ab15f9a5cc9" data-parallax-id="5c0f886740ec9ab15f9a5cc9" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1545316244137" id="page-5c0f886740ec9ab15f9a5cc9"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-84c4f63d9371f820a53c"><div class="sqs-block-content"><h2 style="text-align: center; white-space: pre-wrap;">CMS</h2><p style="text-align: center; white-space: pre-wrap;">With our intuitive&nbsp;<strong>rich content CMS</strong>&nbsp;and our wide set of features in modern design we allow you to&nbsp;<strong>create your own content and interactions</strong>&nbsp;and attach it to location triggers. We offer multi language content delivery, time setting, form cards and more.</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1545308668436_777250"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="151.47058823529412" data-block-type="5" id="block-yui_3_17_2_1_1544522051010_6336"><div class="sqs-block-content">
+
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-poster combination-animation-none individual-animation-none individual-text-animation-none image-position-left " data-scrolled>
+
+        <div class="intrinsic">
+
+          <div
+          style="padding-bottom:151.4705810546875%;" class="image-inset content-fill has-aspect-ratio" 
+          
+          
+          
+          
+          data-animation-tier="1"
+          data-description="">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532636266-ZE0627QQWIWIY2541EZN/ke17ZwdGBToddI8pDm48kPhcsJVuX1kcbPHftP9wYFkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z27MiiYSbU85Yzxq8qVdgQYDSG74u-fO58nI9MVsrTfHkKMshLAGzx4R3EDFOm1kBS/features_pic+%281%29.png" alt=" - " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532636266-ZE0627QQWIWIY2541EZN/ke17ZwdGBToddI8pDm48kPhcsJVuX1kcbPHftP9wYFkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z27MiiYSbU85Yzxq8qVdgQYDSG74u-fO58nI9MVsrTfHkKMshLAGzx4R3EDFOm1kBS/features_pic+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532636266-ZE0627QQWIWIY2541EZN/ke17ZwdGBToddI8pDm48kPhcsJVuX1kcbPHftP9wYFkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z27MiiYSbU85Yzxq8qVdgQYDSG74u-fO58nI9MVsrTfHkKMshLAGzx4R3EDFOm1kBS/features_pic+%281%29.png" data-image-dimensions="960x1444" data-image-focal-point="0.5,0.5" alt="features_pic (1).png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_322643"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311541816-Y3HK6ZR3586HVUPFZ6D2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/text.png" alt="text.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311541816-Y3HK6ZR3586HVUPFZ6D2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/text.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311541816-Y3HK6ZR3586HVUPFZ6D2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/text.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="text.png" data-load="false" data-image-id="5c1b9534352f531e85ae3fa1" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-5 span-5"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_324527"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Text</h3><p style="white-space: pre-wrap;">Catchy headlines, easy-to-remember lists or full texts: You do the writing and we put your content in the limelight.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_329069"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311577313-3ZQCXJBVFPNEXJX7YSQ2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image_gallery.png" alt="image_gallery.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311577313-3ZQCXJBVFPNEXJX7YSQ2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image_gallery.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311577313-3ZQCXJBVFPNEXJX7YSQ2/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image_gallery.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="image_gallery.png" data-load="false" data-image-id="5c1b955821c67cd7830cc552" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_333771"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Image gallery</h3><p style="white-space: pre-wrap;">From illustrations to photos, you upload your images individually or create a gallery for users to swipe through.&nbsp;&nbsp;</p></div></div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_339594"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311637737-OP6OUQN4MRPJ5IAZ0P6O/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311637737-OP6OUQN4MRPJ5IAZ0P6O/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311637737-OP6OUQN4MRPJ5IAZ0P6O/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5c1b9594562fa7d15b1cd5c5" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_342385"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Audio</h3><p style="white-space: pre-wrap;">Listen up! You upload your sounds and music as mp3 files, which are played at the touch of a button.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_346827"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311709212-I57SW03LTQLRXFOIGS5Y/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311709212-I57SW03LTQLRXFOIGS5Y/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311709212-I57SW03LTQLRXFOIGS5Y/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5c1b95dc1ae6cf51a5dfc5bd" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_349781"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Rating</h3><p style="white-space: pre-wrap;">How many stars will you get for your service? Just ask your audience. Our rating template is ready to go.</p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_358743"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311753632-EOYCV08BGKMW7XIXKZLG/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311753632-EOYCV08BGKMW7XIXKZLG/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311753632-EOYCV08BGKMW7XIXKZLG/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5c1b96082b6a2833d87380b8" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_361807"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Youtube</h3><p style="white-space: pre-wrap;">You copy and paste the link from your YouTube video, instantly generating a preview of the video. There is space for an optional short description.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1545308668436_366869"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311780335-2FT2W7X4D6N7WMZWXOST/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311780335-2FT2W7X4D6N7WMZWXOST/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1545311780335-2FT2W7X4D6N7WMZWXOST/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/image-asset.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5c1b9623c2241b96d9b64414" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545308668436_368949"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Voucher / Coupons</h3><p style="white-space: pre-wrap;">Create a voucher in your own design or insert a valid EAN barcode: a great way to promote that summer sale and boost your point of sale!</p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_18737"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532796060-CBKBOTLSZA1GKZ5660AL/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/HTML.png" alt="HTML.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532796060-CBKBOTLSZA1GKZ5660AL/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/HTML.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532796060-CBKBOTLSZA1GKZ5660AL/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/HTML.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="HTML.png" data-load="false" data-image-id="5c0fb33caa4a99f7e990e647" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_41407"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">HTML</h3><p style="white-space: pre-wrap;">If you want to bring content to another level. For devs only.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_29679"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532885191-72YGHFRYOQ0CEG59YV8F/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/webhook.png" alt="webhook.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532885191-72YGHFRYOQ0CEG59YV8F/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/webhook.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532885191-72YGHFRYOQ0CEG59YV8F/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/webhook.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="webhook.png" data-load="false" data-image-id="5c0fb395352f53457cb034c3" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_39248"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Webhook</h3><p style="white-space: pre-wrap;">Trigger 3rd party applications, like digital signage or your internal apps.</p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_100096"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713219182-1O39JKNQ8QMNM44WMT16/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/brandbar.png" alt="brandbar.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713219182-1O39JKNQ8QMNM44WMT16/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/brandbar.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713219182-1O39JKNQ8QMNM44WMT16/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/brandbar.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="brandbar.png" data-load="false" data-image-id="5c1274038a922d9d1db930ea" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_96640"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Brandbar</h3><p style="white-space: pre-wrap;">Show who you are. The easiest way to brand your content with your logo. </p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="73.63636363636363" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_14466"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:73.63636016845703%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532763069-M72U0H123C79M4UY8E8R/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/form.png" alt="form.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532763069-M72U0H123C79M4UY8E8R/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/form.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532763069-M72U0H123C79M4UY8E8R/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/form.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="form.png" data-load="false" data-image-id="5c0fb31b562fa7e00fa7a84b" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_37781"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Form Fields</h3><p style="white-space: pre-wrap;">Create your own form and push data directly to your backend systems.</p></div></div></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1545308668436_698469"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_13114"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713192994-QM0KENZZMVFW7QBN4J7G/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/asset_tracking_gray.png" alt="asset_tracking_gray.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713192994-QM0KENZZMVFW7QBN4J7G/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/asset_tracking_gray.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713192994-QM0KENZZMVFW7QBN4J7G/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/asset_tracking_gray.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="asset_tracking_gray.png" data-load="false" data-image-id="5c1273e80e2e72a4b1786b0b" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_59816"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Assettracking</h3><p style="white-space: pre-wrap;">Use the out of the box asset tracking to locate your assets indoor and outdoor.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_11952"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713180611-A1F8EGB4XN3UHPELH82V/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/batch_operations_gray.png" alt="batch_operations_gray.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713180611-A1F8EGB4XN3UHPELH82V/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/batch_operations_gray.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544713180611-A1F8EGB4XN3UHPELH82V/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/batch_operations_gray.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="batch_operations_gray.png" data-load="false" data-image-id="5c1273dc70a6ad36d969ecd7" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_57044"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Batch Operations</h3><p style="white-space: pre-wrap;">Select and configure hundreds of triggers at once to save time.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544525246634_20168"><div class="sqs-block-content">
+
+  
+
+    
+      <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:152.0px;">
+          
+            <div style="padding-bottom:78.28947448730469%;" class="image-block-wrapper   has-aspect-ratio" data-animation-tier="1" data-description="" >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532812002-WP9RAW5QZNMA90YWXPZ0/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/multiple_languages.png" alt="multiple_languages.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532812002-WP9RAW5QZNMA90YWXPZ0/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/multiple_languages.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1544532812002-WP9RAW5QZNMA90YWXPZ0/ke17ZwdGBToddI8pDm48kNiQ2Ix6DAIdx6pu5wWeC55Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SSwGn0TPzISNt3iSJufpcu6fiaSMEd6ukbDw57s8o6tdQY_j1sMW2X_1dWHRRn83Q/multiple_languages.png" data-image-dimensions="152x119" data-image-focal-point="0.5,0.5" alt="multiple_languages.png" data-load="false" data-image-id="5c0fb34b4ae2379685edd3bd" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1544525246634_55672"><div class="sqs-block-content"><h3 style="white-space: pre-wrap;">Multilanguage</h3><p style="white-space: pre-wrap;">Be multinational. Push content in several languages via the wingu CMS.</p></div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="statistics-location-service" class="Index-page"  data-collection-id="5c0fd31a40ec9ad72e782121" data-parallax-id="5c0fd31a40ec9ad72e782121" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1546955766083" id="page-5c0fd31a40ec9ad72e782121"><div class="row sqs-row"><div class="col sqs-col-11 span-11"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544541018438_11157"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1544541018438_4067"><div class="sqs-block-content">
+
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-overlap combination-animation-none individual-animation-none individual-text-animation-none image-position-left " data-scrolled>
+
+        <div class="intrinsic">
+
+          <div
+          
+          
+          
+          class="image-inset content-fit" 
+          
+          data-animation-tier="1"
+          data-description="">
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546955747338-6M6ANXCPNRUUSH48HQZK/ke17ZwdGBToddI8pDm48kJEvD68kvn26qei31nYK4c5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgihLc64enVEUwPzHAupeZwcwwnDAdbsZv-zEjHCkd1c/wingu_stats.png" alt="Get insides with wingu analytics - Get to know your users and optimize your content and interaction. With wingu analytics you learn about reach, dwell time, routes etc. - to make sure, that you get the best out of your content and optimize the user experience." /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546955747338-6M6ANXCPNRUUSH48HQZK/ke17ZwdGBToddI8pDm48kJEvD68kvn26qei31nYK4c5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgihLc64enVEUwPzHAupeZwcwwnDAdbsZv-zEjHCkd1c/wingu_stats.png" data-image="https://images.squarespace-cdn.com/content/v1/5bdac71636099b039e464570/1546955747338-6M6ANXCPNRUUSH48HQZK/ke17ZwdGBToddI8pDm48kJEvD68kvn26qei31nYK4c5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgihLc64enVEUwPzHAupeZwcwwnDAdbsZv-zEjHCkd1c/wingu_stats.png" data-image-dimensions="798x488" data-image-focal-point="0.5,0.5" alt="wingu_stats.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"><p>Get insides with wingu analytics</p></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"><p>Get to know your users and optimize your content and interaction. With wingu analytics you learn about reach, dwell time, routes etc. - to make sure, that you get the best out of your content and optimize the user experience.</p></div></div>
+            
+
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1544541018438_12331"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#trigger-configuration" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Configure beacon, geofence, NFC, QR code and Eddystone</span></div>
+          </a>
+        
+          <a href="#proximity-cms" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Create your own content and interactions with wingu CMS</span></div>
+          </a>
+        
+          <a href="#statistics-location-service" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Get insides with your wingu analytics</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1544174813913" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+          <div class="Footer-business-info">
+            
+              
+                
+                
+                
+                
+              
+            
+            
+              
+              <a href="mailto:sales@wingu.de" title="sales@wingu.de" target="_blank" class="Footer-business-info-item Footer-business-info-item--email">sales@wingu.de</a>
+            
+          </div>
+        
+
+        
+          
+            <div class="Footer-business-hours">
+              <div class="Footer-business-hours-heading">Hours</div>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1544174764447" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Developer</div>
+
+      
+
+        
+          
+            <a href="/location-service-sdk" class="Footer-nav-folder-item">Documentation</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://github.com/wingu-GmbH/wingu-ios-sdk-essentials" target="_blank" class="Footer-nav-folder-item">iOS SDK</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://github.com/wingu-GmbH/wingu-android-sdk" target="_blank" class="Footer-nav-folder-item">Android SDK</a>
+          
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div><div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Company</div>
+
+      
+
+        
+          
+            <a href="/leading-proximity-platform" class="Footer-nav-folder-item">About</a>
+          
+        
+
+      
+
+        
+          <a href="/imprint" class="Footer-nav-folder-item">imprint</a>
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div><div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Stay in touch</div>
+
+      
+
+        
+          
+            <a href="/contact" class="Footer-nav-folder-item">Contact Sales</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://twitter.com/wingude" target="_blank" class="Footer-nav-folder-item">Twitter</a>
+          
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1544094260742" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/328/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQQ9MD9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Intercom 
+<script>
+  window.intercomSettings = {
+    app_id: "p86hy67q"
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;var l = function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/p86hy67q';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+-->
+
+<script>
+(function() {
+  var formName = document.getElementById("intercom-name");
+  var formEmail = document.getElementById("intercom-email");
+  var formBody = document.getElementById("intercom-text");
+  var formButton = document.getElementById("intercom-button");
+  var formCallback = document.getElementById("intercom-callback");
+
+  var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+  var errorEmpty = "This field cannot be empty";
+  var errorEmail = "No valid Email given";
+
+  var successText = "Your message has been sent";
+  var successRedirectioUrl = "/thank-you";
+  var errorText = "Unfortunately your message has not been sent";
+  var errorRedirectionUrl = "";
+
+  var url = new URL(window.location.href);
+  var campaingUrls = {};
+  campaingUrls.utm_source = url.searchParams.get("utm_source");
+  campaingUrls.utm_campaign = url.searchParams.get("utm_campaign");
+  campaingUrls.utm_term = url.searchParams.get("utm_term");
+  campaingUrls.utm_content = url.searchParams.get("utm_content");
+
+  if (formButton) {
+    formButton.addEventListener("click", function() {
+      validationEmail();
+      validationText();
+      if (validationEmail() && validationText()) {
+        formCallback.style.display = "flex";
+
+        var requestData = {
+          email: formEmail.value,
+          body: formBody.value
+        };
+
+        if (formName.value) {
+          requestData.name = formName.value;
+        }
+
+        for (var i in campaingUrls) {
+          if (campaingUrls[i]) {
+            requestData[i] = campaingUrls[i];
+          }
+        }
+
+        var xhr = new XMLHttpRequest();
+
+        xhr.onreadystatechange = function() {
+          if (this.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+              formCallback.innerHTML = successText;
+              if (successRedirectioUrl) {
+                window.location.href = successRedirectioUrl;
+              }
+            } else {
+              formCallback.innerHTML = errorText;
+              if (errorRedirectionUrl) {
+                window.location.href = errorRedirectionUrl;
+              }
+            }
+          }
+        };
+        xhr.open(
+          "POST",
+          "https://wingu-intercom-prod.herokuapp.com/message",
+          true
+        );
+        xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+        xhr.send(JSON.stringify(requestData));
+      }
+    });
+  }
+
+  function validationEmail() {
+    var errorText = "";
+    if (!formEmail.value) {
+      errorText = errorEmpty;
+    } else if (!emailPattern.test(formEmail.value) && formEmailemail.value) {
+      errorText = errorEmail;
+    } else {
+      errorText = "";
+    }
+
+    setError(formEmail, errorText);
+    return emailPattern.test(formEmail.value) && !!formEmail.value;
+  }
+
+  function validationText() {
+    setError(formBody, formBody.value ? "" : errorEmpty);
+    return !!formBody.value;
+  }
+
+  function setError(_element, _value) {
+    _element.parentElement.querySelectorAll(".error")[0].innerHTML = _value;
+  }
+})();
+</script><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>

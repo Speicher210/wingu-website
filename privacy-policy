@@ -1,0 +1,561 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- wingu-staging -->
+<base href="">
+<meta charset="utf-8" />
+<title>privacy policy &mdash; wingu - proximity platform</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://static1.squarespace.com/static/5bdac71636099b039e464570/t/5c1bb8232b6a28b0c1aec391/favicon.ico"/>
+<link rel="canonical" href="https://www.wingu.app/privacy-policy"/>
+<meta property="og:site_name" content="wingu - proximity platform"/>
+<meta property="og:title" content="privacy policy &mdash; wingu - proximity platform"/>
+<meta property="og:url" content="https://www.wingu.app/privacy-policy"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="privacy policy — wingu - proximity platform"/>
+<meta itemprop="url" content="https://www.wingu.app/privacy-policy"/>
+<meta name="twitter:title" content="privacy policy — wingu - proximity platform"/>
+<meta name="twitter:url" content="https://www.wingu.app/privacy-policy"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rubik:400,300,500,700,700i,300i|Sarala:700|Sarala:700,400"/>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c54d8d81244c462337e47-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c54d8d81244c462337e47-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f68c2b4086ad218068636-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//assets.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-69813a528c73e940a2def-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a3e75409b407dae8ca7d1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ab4142fcacca918cf4e2d-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-758414eefce0c276c5972-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-d7ba7c67638cadada5b70-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-1637eb4ee93bed59528921026e024bf4-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-ca484c68c41202b648ec4-min.en-US.js"},"squarespace-commerce-cart":{"js":"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-6f013e702cee6c777a9ca-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7a61f12f209b6b1084c2a996626292ae-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-3fa1791423166e75e9f9e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-7969c646fb37d098d8205-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-bddeb2bc2f1c82e89730b-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-6f75db26ac5a6772b018268d7fb910ca-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-55db5350f04790160eb9c-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5d5ff461e8bba64f298dc-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-3719795682da2e4919d41-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-a7cf1f44e8653e4d0dfb0-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-62c9ec33d6124f4e3c04b78ce135a63e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f6f8e3898e3a8a3b908fe-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-2573bf4ff7704c95ef4221f794e6b6b5-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-823591d6d231348a3b6e5-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6a8a9291b7376356ea439-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-3df8936cb001cb6979c8e-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-a41126d55c7c7474f183f-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-36fe5b82f65a7545934ae-min.en-US.js"},"squarespace-share-buttons":{"js":"//assets.squarespace.com/universal/scripts-compressed/share-buttons-5c330bb7b962ce4b56d06-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-8a49cef3a06688af6f6c4-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-4019ec5bf099830c45ee7-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e623ed52c442404413ef0-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-68df56a8135961401cbd590171d6b04a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bb02347c7198dc2112b75-min.en-US.js"}},"pageType":2,"website":{"id":"5bdac71636099b039e464570","identifier":"wingu-staging","websiteType":4,"contentModifiedOn":1560239542990,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/Berlin","machineTimeZoneOffset":7200000,"timeZoneOffset":7200000,"timeZoneAbbr":"CEST","siteTitle":"wingu - proximity platform","fullSiteTitle":"privacy policy \u2014 wingu - proximity platform","siteDescription":"","location":{"addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5c0aa3a388251bfa8267e8d7","shareButtonOptions":{},"logoImageUrl":"//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","authenticUrl":"https://www.wingu.app","internalUrl":"https://wingu-staging.squarespace.com","baseUrl":"https://www.wingu.app","primaryDomain":"www.wingu.app","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"showOwnerLogin":false},"websiteSettings":{"id":"5bdac71636099b039e464573","websiteId":"5bdac71636099b039e464570","subjects":[],"country":"DE","state":"HH","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":false,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":false,"displayFrequency":30,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"paymentSettings":{},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"contactLocation":{"addressLine1":"R\u00F6dingsmarkt 9","addressLine2":"Hamburg","addressCountry":"Deutschland"},"businessName":"wingu GmbH","sameAsRetailLocation":false,"businessId":"","merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"restockNotificationsMailingListOptInByDefault":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random"},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":true,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.","cookieBannerTheme":"DARK","cookieBannerVariant":"POPUP","cookieBannerPosition":"BOTTOM_LEFT","cookieBannerCtaVariant":"BUTTON","cookieBannerCtaText":"OK"},"websiteCloneable":false,"collection":{"title":"privacy policy","id":"5c17bc792b6a28e46b7bc0c8","fullUrl":"/privacy-policy","type":10},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"3","tweak-blog-list-item-image-aspect-ratio-grid":"16:9 Widescreen","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"41px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Columns","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Split","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"First Page Only","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"3","tweak-related-products-hover-behavior":"Show Alternate Image","tweak-related-products-items-per-row":"3","tweak-site-ajax-loading-enable":"false","tweak-site-border-show":"false","tweak-site-border-width":"10px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","betaFeatureFlags":["SITE_USER_SERVICE-update-groups-with-tags","ORDERS-SERVICE-check-digital-good-access-with-service","ORDERS-SERVICE-reset-digital-goods-access-with-service","ORDERS-SERVICE-submit-order-through-service","dg_downloads_from_fastly","generic_iframe_loader_for_campaigns","product-retriever-v2-enabled","domain_registration_via_registrar_service","domain_locking_via_registrar_service","image_editor_experimental_features","domain_deletion_via_registrar_service","domain_info_via_registrar_service","add_new_page_alt","image_picker","onboarding_wizard","gallery_lightbox_71","onboarding_cards_71","member_email_verified_flag_migration","commerce_trial_survey","seven_one_manage_items_button","seven_one_add_page"],"impersonatedSession":false,"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://www.wingu.app","name":"wingu - proximity platform","description":"","image":"//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"wingu GmbH","address":"","email":"sales@wingu.de","telephone":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"R\u00F6dingsmarkt 9\nHamburg\nDeutschland","image":"https://static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/","name":"wingu GmbH","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5bdac71636099b039e464570/290/55f0aac0e4b0f0a5b7e0b22e/5bdac71636099b039e464585/328-05142015/1560239542975/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQQ9MD9');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="YEOmlTd9CvcS40dJoTIB5ndyVR22z77lZGWGnNevaWw" /><meta name="robots" content="noindex"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5c17bc792b6a28e46b7bc0c8" class="tweak-social-icons-style-regular tweak-social-icons-shape-circle tweak-site-width-option-full-background tweak-icon-weight-hairline   tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-top-left ancillary-header-primary-nav-position-top-center ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-top-right ancillary-header-account-position-top-right tweak-header-primary-nav-hover-style-spotlight tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square  tweak-header-secondary-nav-hover-style-button tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-icon-only tweak-header-search-placeholder-show tweak-header-cart-style-cart tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-first-page-only  tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-split tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-center tweak-index-gallery-content-text-alignment-center tweak-footer-show tweak-footer-layout-columns  tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-bottom-center tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-bottom-center tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left  tweak-blog-meta-primary-category tweak-blog-meta-secondary-tags tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-center tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-169-widescreen tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-below-content tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-center tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-hover-behavior-show-alternate-image tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-top image-block-card-text-alignment-center  image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show    tweak-share-buttons-standard-background-color native-currency-code-usd collection-type-page collection-layout-default collection-5c17bc792b6a28e46b7bc0c8 mobile-style-available sqs-has-custom-cart has-logo-image enable-load-effects has-primary-nav has-secondary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/?format=1500w" alt="wingu - proximity platform" class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          
+            <a href="/" class="Mobile-overlay-nav-item">
+              Home
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/features-for-location-service" class="Mobile-overlay-nav-item">
+              Features
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/location-service-sdk" class="Mobile-overlay-nav-item">
+              Documentation
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/leading-proximity-platform" class="Mobile-overlay-nav-item">
+              About
+            </a>
+          
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="/contact" class="Mobile-overlay-nav-item">
+        Get in touch
+      </a>
+    
+  
+
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+
+  
+
+        
+  
+
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner">
+
+        <header class="Header Header--bottom">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/" class="Header-nav-item" data-test="template-nav">Home</a><a href="/features-for-location-service" class="Header-nav-item" data-test="template-nav">Features</a><a href="/location-service-sdk" class="Header-nav-item" data-test="template-nav">Documentation</a><a href="/leading-proximity-platform" class="Header-nav-item" data-test="template-nav">About</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//static1.squarespace.com/static/5bdac71636099b039e464570/t/5c0aa3a388251bfa8267e8d7/1560239542990/?format=1500w" alt="wingu - proximity platform" class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/contact" class="Header-nav-item">Get in touch</a>
+  </div>
+
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+            
+              
+                
+                  
+                
+              
+            
+          
+
+          <main class="Main Main--page" >
+            
+              <section class="Main-content" data-content-field="main-content">
+                <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1545059472054" id="page-5c17bc792b6a28e46b7bc0c8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5c17bc792b6a28e46b7bc0c9"><div class="sqs-block-content"><h1 style="white-space: pre-wrap;">Privacy Policy wingu GmbH</h1><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>I. General Information and Legislative Basis</strong></p><p style="white-space: pre-wrap;">This privacy policy informs you about what kind of personal data is collected by us (wingu GmbH) as the responsible party,&nbsp;what purpose on this collection has for us,&nbsp;and to what extent this data is made available to third parties.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">1. Responsible Party</p><p style="white-space: pre-wrap;">wingu GmbH</p><p style="white-space: pre-wrap;">c/o Mindspace</p><p style="white-space: pre-wrap;">Rödingsmarkt 9</p><p style="white-space: pre-wrap;">20459 Hamburg</p><p style="white-space: pre-wrap;">hilfe&lt;at&gt;wingu.de</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">Geschäftsführung Hanz Geeratz &amp; Michael Wolf</p><p style="white-space: pre-wrap;">Registereintrag: Amtsgericht Hamburg - HRB 149417</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">2. Legislative Basis and Processing</p><p style="white-space: pre-wrap;">The processing of personal data requires a legal basis, which we would like to present to you here.&nbsp;For the processing of personal data, for which we have obtained the data subject's consent, the legal basis is Article 6(1)(a) of the General EU Data Protection Regulation (GDPR).&nbsp;</p><p style="white-space: pre-wrap;">For the processing of personal data, which is necessary for the performance of a contract to which the data subject is a party, GDPR Article 6(1)(b)&nbsp;serves as the legal basis. This also includes processing operations that are necessary to carry out pre-contractual measures.&nbsp;</p><p style="white-space: pre-wrap;">Insofar as the processing of personal data is required to fulfill a legal obligation to which our company is subject, GDPR Article 6 paragraph 1 lit. c&nbsp; serves as the legal basis.&nbsp;</p><p style="white-space: pre-wrap;">If processing is necessary to safeguard a legitimate interest of our company, or of a third party, and if the interests, fundamental rights and freedoms of the data subject do not outweigh the former interest, GDPR Article 6(1)(f)&nbsp;serves as the legal basis for processing. The legitimate interest of our company lies in the performance of our business activities and in the analysis, optimisation and maintenance of the security of our online offer.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>II. Log Files, Hosting</strong></p><p style="white-space: pre-wrap;">The server statistics automatically store data that the browser transmits to us within the framework of our legitimate interest &nbsp;concerning analysis and for security reasons (so-called "log files").</p><p style="white-space: pre-wrap;">The following data is transmitted to us via log files:</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Language and version of the browser software&nbsp;</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating system and user interface</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Referrer URL (the website you visited prior)</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Host name of the device (IP address)</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date and time of the server request (time zone difference to GMT)</p><p style="white-space: pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transmitted data volume </p><p style="white-space: pre-wrap;">The data will solely be used for statistical analysis to help us improve our security, our website and our offers. As a general rule we cannot connect individual people with the transmitted data. We do not undertake a consolidation of this data with other data sources.&nbsp;</p><p style="white-space: pre-wrap;">The data will be deleted within 7 days after a statistical evaluation. Data which further storage is required for evidentiary purposes are excluded from deletion until the respective incident has been clarified.</p><p style="white-space: pre-wrap;">We use hosting services. These serve to provide infrastructure and platform services, computing capacity, storage space and database services, security services as well as technical maintenance services in order to maintain the operation of this online offer.</p><p style="white-space: pre-wrap;">We and our hosting provider process inventory data, contact data, content data, contract data, usage data, meta- and communication data of customers, interested parties and visitors of this online offer on the basis of our legitimate interests in an efficient and secure provision of this online offer.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>III. Contractual Processing</strong></p><p style="white-space: pre-wrap;">The personal data provided by you for contractual purposes, such as name, address or e-mail address, will only be used internally to answer your inquiries, process your orders or provide you access to certain contractual information.&nbsp;</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>IV. Contacting wingu</strong></p><p style="white-space: pre-wrap;">When you contact us by e-mail or via the contact form, your details will be stored by us (and Zendesk in case the contact form is used)&nbsp;to answer your questions. A transfer to third parties (potentially apart from Zendesk)&nbsp;does not take place unless applicable data protection regulations justify a transfer or we are legally obliged to do so. You can revoke your consent at any time with effect for the future. In the event of revocation, your data will be deleted immediately, unless there is a legal exception for further processing. Your data will otherwise be deleted when we have processed your request or the purpose of storage has ceased and there are no other conflicting legal exceptions. You can inform yourself at any time about the data stored about your person.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>V. Cookies</strong></p><p style="white-space: pre-wrap;">Our website uses Cookies. Cookies are small text files that are saved on your computer. Through cookies we receive information which serves to enhance your user experience and/or simplifies the navigation on our website.&nbsp;</p><p style="white-space: pre-wrap;">It is possible to use our website without accepting cookies. You can configure your browser settings in such a manner that will prevent the setting of third party, or all cookies. You can also delete saved cookies. In case you do not accept cookies, please be aware that our website and portal might not function error-free.</p><p style="white-space: pre-wrap;">For more information about third party cookies, please read the paragraphs concerning Google Analytics, Facebook,&nbsp;Twitter and Zendesk.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>VI. Newsletter</strong></p><p style="white-space: pre-wrap;">If you would like to receive the newsletter offered on our website, we need a valid e-mail address from you, which allows us to check that you are the owner of the given e-mail address or that the owner agrees to receive the newsletter.&nbsp;</p><p style="white-space: pre-wrap;">After providing your e-mail address, we will send you a confirmation e-mail to the address provided, asking you to confirm that you would like the newsletter to be sent. If you do not confirm this within 24 hours, your data relating to the newsletter dispatch will be deleted automatically. If you confirm your wish to receive the newsletter, we will store your e-mail address until you cancel the newsletter.</p><p style="white-space: pre-wrap;">We only send newsletters with your consent or a legal permission. You can revoke your consent to the storage of the data, the e-mail address as well as their use for sending the newsletter at any time. You will find a link to cancel the newsletter at the end of each newsletter. If users have only subscribed to the newsletter and cancelled their subscription, their personal data will be deleted.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>VII. Registration</strong></p><p style="white-space: pre-wrap;">Our website offers a registration option. The personal data entered during registration will be communicated to the controller. The data are stored exclusively for the purpose of internal use.&nbsp;During registration, the user's IP address and the date and time of registration are stored. This serves to prevent misuse of the services. The data will not be passed on to third parties. An exception exists if there is a legal obligation to pass on.</p><p style="white-space: pre-wrap;">Registration of the data is required for the provision of content or services. Registered persons have the possibility to delete or modify the stored data at any time. The person concerned receives information about the personal data stored about him or her at any time.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>VIII. Passing on Information to Third Parties</strong></p><p style="white-space: pre-wrap;">We pass on data to third parties if this is necessary for the fulfillment of the contract and/or we are legally obliged and / or entitled to do so in individual cases.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">1. PayPal</p><p style="white-space: pre-wrap;">If you choose to pay with the online payment service PayPal as part of your order process, your contact details will be transmitted to PayPal when the order is placed. PayPal is an offer of PayPal (Europe) S.à.r.l. &amp; Cie. S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg.&nbsp;PayPal acts as an online payment service provider and trustee and offers buyer protection services.&nbsp;</p><p style="white-space: pre-wrap;">The personal data transmitted to PayPal are data which are necessary for order processing as well as data which are in connection with the order, such as number of articles, article number, and invoice amount.&nbsp;This transfer is necessary to process your order using the payment method you have chosen, in particular to confirm your identity, to administer your payment and the customer relationship.</p><p style="white-space: pre-wrap;">Depending on the payment method selected via PayPal, e.g. invoice or direct debit, the personal data transmitted to PayPal is transmitted by PayPal to credit agencies. This transfer serves to verify your identity and creditworthiness with regard to the order you have placed. Please read PayPal's data protection declaration at https://www.paypal.com/de/webapps/mpp/ua/privacy-full to find out which credit agencies are involved and which data PayPal generally collects, processes, stores and passes on.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">2. Pixel Tags</p><p style="white-space: pre-wrap;">In some cases, we make use of external service providers within the scope of our legitimate interests with regard to the analysis, optimisation and economic operation of the online offering. This always presupposes that the third party providers of this content perceive the IP address of the users, as they would not be able to send the content to their browser without the IP address. The IP address is therefore required for the display of this content. Third-party providers can also use so-called pixel tags (invisible graphics, also "web beacons") for statistical or marketing purposes. Pixel tags can be used to evaluate information such as visitor traffic on the pages of this website. The pseudonymous information may also be stored in cookies on the user's device and may contain technical information similar to logfiles. Below we list our service providers. If your data is to be used for other purposes, we will inform you in advance and only use the data if you have expressly given your consent in advance.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">3. Google</p><p style="white-space: pre-wrap;">We use services of Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ("Google") within the scope of our legitimate interests in the analysis, optimization and economic operation of our online offer. Google is certified under the Privacy Shield Agreement and thus offers a guarantee to comply with European data protection law. (https://www.privacyshield.gov/participant?id=a2zt00000000001L5AAI&amp;status=Active).</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">3.1 Google Analytics</p><p style="white-space: pre-wrap;">This website uses Google Analytics. Google Analytics is a web analysis service of Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (Google). Google Analytics uses cookies that are stored and saved on your device and which allow us to analyse the usage of our website. The data concerning the website usage generated by the cookie (incl. IP address) is sent to a Google server in the USA and saved there.</p><p style="white-space: pre-wrap;">Our website uses Google Analytics with the addition “_anonymizeIp()”. This means that IP addresses stemming from EU and EEA are shortened prior to sending them to the Google server. This is done to prevent personal tracking. Only in exceptional cases it may happen that the complete IP address is transmitted to the Google server in the USA. In this case the IP address will be shortened in the USA.</p><p style="white-space: pre-wrap;">On behalf of the provider, Google will use this information to evaluate your use of the website, to compile reports on website activity for website operators and to provide other services relating to website and Internet use. Google may also transfer this information to third parties if this is required by law or if third parties process this data on behalf of Google. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.&nbsp;</p><p style="white-space: pre-wrap;">For more information concerning the purpose and scope of the data collection and the further processing and use of the data by Google as well as your rights and setting options for the protection of your privacy please read the data protection information of Google at http://www.google.de/intl/de/policies/privacy/?hl=desand especially for Google Analytics at https://www.google.com/policies/privacy/partners/?hl=deand at https://support.google.com/analytics/answer/6004245?hl=en as well as for Universal Analytics at https://support.google.com/analytics/answer/2838718?hl=en</p><p style="white-space: pre-wrap;">The collection and storage of data by Google may be revoked for the respective terminal device at any time with future effect in connection with the use of this link: http://tools.google.com/dlpage/gaoptout?hl=en</p><p style="white-space: pre-wrap;">Attention: If you delete your cookies, the deactivation cookie will also be deleted and must be stored by you again.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">3.2 Google Fonts</p><p style="white-space: pre-wrap;">We integrate the fonts ("Google Fonts") of the provider Google. These web fonts are integrated by a server call, usually a Google server in the USA. This transfers to the server which of our Internet pages you have visited. The IP address of the browser of the visitor's terminal device is also stored by Google. A privacy policy for further information can be found at https://www.google.com/policies/privacy/.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">3.3 Google Tag Manager</p><p style="white-space: pre-wrap;">We use the Google Tag Manager. &nbsp;This enables us to manage website tags via an interface and thus integrate Google marketing services into our online offering, for example. The Tag Manager itself does not process any personal user data. For the respective Google services, reference is made to the respective notes and the usage guidelines at https://www.google.com/intl/de/tagmanager/use-policy.html.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">4. Twitter</p><p style="white-space: pre-wrap;">Our pages include functions of the Twitter service. These features are provided by Twitter Inc, 795 Folsom St., Suite 600, San Francisco, CA 94107, USA ("Twitter"). Twitter observes the principles of the EU-US Privacy Shield (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active) and the Swiss-US Privacy Shield regarding the collection, use, transmission and storage of personal data from the European Union and Switzerland according to its own statements.</p><p style="white-space: pre-wrap;">We use the so-called 2-click solution. When you visit our site, no personal data will be passed on to Twitter. Only if you activate the plug-in, your browser establishes a direct connection to the Twitter servers. The content of the plug-in is transmitted directly from Twitter to your browser and integrated into the website. Twitter uses cookies and similar technologies to display your advertisements and suggestions on the Twitter services, regardless of whether you have an account on Twitter and are logged in. &nbsp;The information generated by the cookie (including your IP address) is stored on a server in the USA.</p><p style="white-space: pre-wrap;">Twitter only stores tailored content together with browser cookies or device IDs and separates them from other data, such as information about pages visited. After a maximum of 10 days, Twitter will begin to delete, unidentify or collect this data.</p><p style="white-space: pre-wrap;">By using Twitter and the "Re-Tweet" function, the websites you visit are linked to your Twitter account and made known to other users. Data is also transmitted to Twitter. If you do not want this, please log out of your Twitter account (before pressing the opt-in button).<br>We would like to point out that, as the provider of the pages, we are not aware of the content of the data transmitted or how it is used by Twitter. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. Further information can be found at https://support.twitter.com/articles/20171372-twitter-unterstutzt-die-option-do-not-track-nicht-verfolgen#. &nbsp;</p><p style="white-space: pre-wrap;">For more information on Twitter's use of your data, please see Twitter's privacy policy at https://twitter.com/privacy?lang=en and https://support.twitter.com/articles/20171570-info-zu-mageschneiderten-vorschlagen#. You can change your Twitter privacy settings in your account settings at http://twitter.com/account/settings.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">5. Facebook</p><p style="white-space: pre-wrap;">We use services of the social network facebook.com, which is operated by Facebook Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland ("Facebook") within the scope of our legitimate interests in the analysis, optimisation and economic operation of our online offer. Facebook is certified under the Privacy Shield Agreement and thus offers a guarantee to comply with European data protection law.<br>(https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active).</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">6. Intercom</p><p style="white-space: pre-wrap;">We use the Intercom ticketing system, a customer service platform of Intercom Inc, 55 2nd Street, 4th Floor, San Francisco, California 94105, which is certified under the Privacy Shield Agreement, providing a guarantee to comply with European data protection laws.<br>(https://www.privacyshield.gov/participant?id=a2zt0000000TNQvAAO&amp;status=Active). For more information about Intercom's data processing, please refer to Intercom's privacy policy at https://www.intercom.com/terms-and-policies#privacy. If you have any questions, you can also contact Intercom’s data protection department directly: compliance@intercom.com</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>IX. Rights of the Data Subject</strong></p><p style="white-space: pre-wrap;">You have a right to information concerning your personal data stored by us. According to the legal regulations you also have a right to correction of incorrect data, blocking, data transferability and deletion of your personal data. Send us an e-mail with the subject "Privacy".<br>You also have a right of appeal to a data protection supervisory authority if you believe that the processing of your personal data is in violation of the law.&nbsp;</p><p style="white-space: pre-wrap;"><br>If you have given your consent, you have the right to revoke your consent at any time. This does not affect the legality of the processing carried out on the basis of the consent until revocation. You can object to the future processing of your personal data in accordance with the legal requirements at any time. The objection may be lodged in particular against processing for direct marketing purposes.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>X. Data Retention and Deletion</strong></p><p style="white-space: pre-wrap;">We store personal data for the duration of the respective legal retention period or as long as the purpose of the collection exists. After expiry of the retention period, the data is routinely deleted, unless there is a need for the initiation of a contract or for performance of the contract. If the user's data are not deleted because they are necessary for other, and legally permissible, purposes, their processing is limited as far as possible. Accordingly, the data will be blocked as far as possible and not processed for other purposes. This applies, for example, to user data that must be retained for commercial or tax reasons.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>XI. Security Information</strong></p><p style="white-space: pre-wrap;">We make great efforts to process your personal data by taking all technical and organizational possibilities in such a way that the regulations of the data protection laws are observed and in order to protect these data. Our website or the communication with us via our website is encrypted via HTTPS.</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">This Privacy Policy has been translated from the German original by wingu GmbH for informational purposes. wingu GmbH uses the German original as its legal basis.&nbsp;The German original is made available by the law firm Sieling - Fachanwaltskanzlei für IT-Recht.&nbsp;</p></div></div></div></div></div>
+              </section>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1544174813913" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+          <div class="Footer-business-info">
+            
+              
+                
+                
+                
+                
+              
+            
+            
+              
+              <a href="mailto:sales@wingu.de" title="sales@wingu.de" target="_blank" class="Footer-business-info-item Footer-business-info-item--email">sales@wingu.de</a>
+            
+          </div>
+        
+
+        
+          
+            <div class="Footer-business-hours">
+              <div class="Footer-business-hours-heading">Hours</div>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1544174764447" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Developer</div>
+
+      
+
+        
+          
+            <a href="/location-service-sdk" class="Footer-nav-folder-item">Documentation</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://github.com/wingu-GmbH/wingu-ios-sdk-essentials" target="_blank" class="Footer-nav-folder-item">iOS SDK</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://github.com/wingu-GmbH/wingu-android-sdk" target="_blank" class="Footer-nav-folder-item">Android SDK</a>
+          
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div><div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Company</div>
+
+      
+
+        
+          
+            <a href="/leading-proximity-platform" class="Footer-nav-folder-item">About</a>
+          
+        
+
+      
+
+        
+          <a href="/imprint" class="Footer-nav-folder-item">imprint</a>
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div><div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Stay in touch</div>
+
+      
+
+        
+          
+            <a href="/contact" class="Footer-nav-folder-item">Contact Sales</a>
+          
+        
+
+      
+
+        
+          
+            <a href="https://twitter.com/wingude" target="_blank" class="Footer-nav-folder-item">Twitter</a>
+          
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1544094260742" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/328/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQQ9MD9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Intercom 
+<script>
+  window.intercomSettings = {
+    app_id: "p86hy67q"
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;var l = function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/p86hy67q';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+-->
+
+<script>
+(function() {
+  var formName = document.getElementById("intercom-name");
+  var formEmail = document.getElementById("intercom-email");
+  var formBody = document.getElementById("intercom-text");
+  var formButton = document.getElementById("intercom-button");
+  var formCallback = document.getElementById("intercom-callback");
+
+  var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+  var errorEmpty = "This field cannot be empty";
+  var errorEmail = "No valid Email given";
+
+  var successText = "Your message has been sent";
+  var successRedirectioUrl = "/thank-you";
+  var errorText = "Unfortunately your message has not been sent";
+  var errorRedirectionUrl = "";
+
+  var url = new URL(window.location.href);
+  var campaingUrls = {};
+  campaingUrls.utm_source = url.searchParams.get("utm_source");
+  campaingUrls.utm_campaign = url.searchParams.get("utm_campaign");
+  campaingUrls.utm_term = url.searchParams.get("utm_term");
+  campaingUrls.utm_content = url.searchParams.get("utm_content");
+
+  if (formButton) {
+    formButton.addEventListener("click", function() {
+      validationEmail();
+      validationText();
+      if (validationEmail() && validationText()) {
+        formCallback.style.display = "flex";
+
+        var requestData = {
+          email: formEmail.value,
+          body: formBody.value
+        };
+
+        if (formName.value) {
+          requestData.name = formName.value;
+        }
+
+        for (var i in campaingUrls) {
+          if (campaingUrls[i]) {
+            requestData[i] = campaingUrls[i];
+          }
+        }
+
+        var xhr = new XMLHttpRequest();
+
+        xhr.onreadystatechange = function() {
+          if (this.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+              formCallback.innerHTML = successText;
+              if (successRedirectioUrl) {
+                window.location.href = successRedirectioUrl;
+              }
+            } else {
+              formCallback.innerHTML = errorText;
+              if (errorRedirectionUrl) {
+                window.location.href = errorRedirectionUrl;
+              }
+            }
+          }
+        };
+        xhr.open(
+          "POST",
+          "https://wingu-intercom-prod.herokuapp.com/message",
+          true
+        );
+        xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+        xhr.send(JSON.stringify(requestData));
+      }
+    });
+  }
+
+  function validationEmail() {
+    var errorText = "";
+    if (!formEmail.value) {
+      errorText = errorEmpty;
+    } else if (!emailPattern.test(formEmail.value) && formEmailemail.value) {
+      errorText = errorEmail;
+    } else {
+      errorText = "";
+    }
+
+    setError(formEmail, errorText);
+    return emailPattern.test(formEmail.value) && !!formEmail.value;
+  }
+
+  function validationText() {
+    setError(formBody, formBody.value ? "" : errorEmpty);
+    return !!formBody.value;
+  }
+
+  function setError(_element, _value) {
+    _element.parentElement.querySelectorAll(".error")[0].innerHTML = _value;
+  }
+})();
+</script><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>
